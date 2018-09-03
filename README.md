@@ -11,9 +11,12 @@ companion object {
 # SETUP 2 
 - Select build variant -> debug
 - Run app 
-# SETUP 3 
+# SETUP 3
+- Disable Google Location Accuracy
+- Setting -> Security & location -> Location -> advanced -> Google Location Accuracy -> Disable Imporve Location Accuracy 
+# SETUP 4 
 - Setting -> Developer options -> select mock location app -> pick this app
-# SETUP 4
+# SETUP 5
 - back app, click MOCK button 
 
 # It's Work!
